@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+
+this is updated on wed sep
+
+
 hello this is the new update in master branch
 =======
 hello this is the new updated in dev branch 
